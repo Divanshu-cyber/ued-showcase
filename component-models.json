@@ -214,5 +214,17 @@
         "valueType": "string"
       }
     ]
+  },
+    {
+    "id": "quote",
+    "fields": [
+      {
+        "component": "richtext",
+        "name": "text",
+        "value": "",
+        "label": "Please enter Quote text",
+        "valueType": "string"
+      }
+    ]
   }
 ]
